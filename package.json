@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-creative-portfolio-starter-code-files",
+  "name": "nextjs-creative-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.51.0",
+    "sharp": "^0.33.2",
     "sonner": "^1.4.3",
     "three": "^0.162.0"
   },
